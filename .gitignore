@@ -25,3 +25,5 @@ auth_react/.env.production.local
 auth_react/npm-debug.log*
 auth_react/yarn-debug.log*
 auth_react/yarn-error.log*
+
+.env
